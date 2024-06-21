@@ -82,10 +82,17 @@ payload:
   - PROCESS-NAME,xdm.exe
   - PROCESS-NAME,xdman
   - PROCESS-NAME,xdman.exe
+  - PROCESS-NAME,Logseq
   - PROCESS-NAME,Logseq.exe
+  - PROCESS-NAME,WinStore.App
   - PROCESS-NAME,WinStore.App.exe
+  - PROCESS-NAME,iCloudCKKS
   - PROCESS-NAME,iCloudCKKS.exe
+  - PROCESS-NAME,iCloudDrive
   - PROCESS-NAME,iCloudDrive.exe
+  - PROCESS-NAME,iCloudHome
   - PROCESS-NAME,iCloudHome.exe
+  - PROCESS-NAME,iCloudPasswordsExtensionHelper
   - PROCESS-NAME,iCloudPasswordsExtensionHelper.exe
+  - PROCESS-NAME,iCloudPhotos
   - PROCESS-NAME,iCloudPhotos.exe
